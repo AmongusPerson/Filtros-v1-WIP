@@ -1,0 +1,16 @@
+body {
+    background-image: url(gradiente.png);
+    color: white;
+}
+
+#boton_filtro {
+    background-color: teal;
+    border-radius: 10px;
+    border-width: 0ch;
+}
+
+#boton_descargar {
+    background-color: teal;
+    border-radius: 10px;
+    border-width: 0ch;
+}
